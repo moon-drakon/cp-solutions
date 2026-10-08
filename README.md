@@ -2,18 +2,18 @@
 
 My accepted solutions on Codeforces: [shiblimoon](https://codeforces.com/profile/shiblimoon).
 
-Each problem is one commit, dated at the time of my first accepted submission, so the
-commit history matches when I actually solved it. Files are `contest/problem.ext`
-(for example `1900/A.cpp`, gym problems under `gym/`) and hold the code exactly as submitted.
+Each file holds my latest accepted submission for that problem, exactly as submitted.
+Every new AC is one commit, dated at the time of that submission.
+Files are `contest/problem.ext` (for example `1900/A.cpp`, gym problems under `gym/`).
 
-New problems are added automatically after each accepted submission.
+Synced by [AC Commit](https://github.com/moon-drakon/ac-commit).
 
 ## Problems
 
-<!-- cp-sync:start -->
+<!-- ac-commit:start -->
 Solved: **22**
 
-| Problem | Name | Rating | Code | Solved |
+| Problem | Name | Rating | Code | Last AC |
 |---|---|---|---|---|
 | [2275H](https://codeforces.com/contest/2275/problem/H) | A Problem to Warm Up the Eyebrows | - | [C++](2275/H.cpp) | 2026-10-08 |
 | [2275G](https://codeforces.com/contest/2275/problem/G) | Copper Squander | - | [C++](2275/G.cpp) | 2026-10-08 |
@@ -37,4 +37,4 @@ Solved: **22**
 | [50A](https://codeforces.com/contest/50/problem/A) | Domino piling | 800 | [C](50/A.c) | 2024-05-12 |
 | [231A](https://codeforces.com/contest/231/problem/A) | Team | 800 | [C](231/A.c) | 2024-05-11 |
 | [4A](https://codeforces.com/contest/4/problem/A) | Watermelon | 800 | [C](4/A.c) | 2024-05-07 |
-<!-- cp-sync:end -->
+<!-- ac-commit:end -->
